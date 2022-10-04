@@ -9,7 +9,7 @@ Sou estudante de Desenvolvimento Web na Trybe
 <br>
 - Desenvolvedor Front End atualmente expandindo meu conhecimento em Backend
 - Sempre em busca de aumentar meus conhecimentos em Desenvolvimento Web, Javascript e Python
-- Stacks que conheço: 
+- Stacks e Frameworks que conheço: 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="node logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" alt="heroku logo" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="jest logo" width=50px height=50px>
@@ -25,12 +25,11 @@ Sou estudante de Desenvolvimento Web na Trybe
 
 
 
-
-- 📫 Pode me contatar em: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vhprestes@gmail.com)
-
+📫 Pode me contatar em: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vhprestes@gmail.com)
 
 
-<p align="center">
+<p>
+  Ou também nas redes sociais:
 <a href="https://www.linkedin.com/in/vhprestes/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/vhprestes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
