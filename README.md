@@ -7,7 +7,7 @@
 Sou estudante de Desenvolvimento Web na Trybe
 <br>
 <br>
-- Desenvolvedor Front End atualmente expandindo meu conhecimento em Backend
+- Desenvolvedor Full Stack, atualmente expandindo meu conhecimento em Backend - Mais precisamente MongoDB
 - Sempre em busca de aumentar meus conhecimentos em Desenvolvimento Web, Javascript e Python
 - Stacks e Frameworks que conheço: 
 
