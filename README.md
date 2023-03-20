@@ -4,10 +4,10 @@
 <h1 align="Center">  Olá! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , Bem vindo ao GitHub de Victor Prestes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <br>
 
-Sou estudante de Desenvolvimento Web na Trybe
+Formado em Desenvolvimento Web na Trybe
 <br>
 <br>
-- Desenvolvedor Full Stack, atualmente expandindo meu conhecimento em Python
+- Desenvolvedor Full Stack, atualmente me aprofundando em Java
 - Sempre em busca de aumentar meus conhecimentos em Desenvolvimento Web, Javascript e Python
 - Stacks e Frameworks que conheço: 
 
