@@ -8,7 +8,7 @@ Formado em Desenvolvimento Web na Trybe
 <br>
 <br>
 - Desenvolvedor Full Stack, atualmente me aprofundando em Java
-- Sempre em busca de aumentar meus conhecimentos em Desenvolvimento Web, Javascript e Python
+- Sempre em busca de aumentar meus conhecimentos como desenvolvedor. Minhas principais stacks são Javascript/Typescript e Python
 - Stacks e Frameworks que conheço: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width=50px height=50px /><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript logo" width=50px height=50px><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="node logo" width=50px height=50px>
