@@ -7,7 +7,7 @@
 Formado em Desenvolvimento Web na Trybe
 <br>
 <br>
-- Desenvolvedor Full Stack, atualmente me aprofundando nas tecnologias que ja conheço
+- Desenvolvedor Full Stack, atualmente me aprofundando em programação orientada a objetos, SOLID e Java
 - Sempre em busca de aumentar meus conhecimentos como desenvolvedor. Minhas principais stacks são Javascript/Typescript e Python
 - Stacks e Frameworks que conheço: 
 
