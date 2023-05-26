@@ -51,7 +51,7 @@ Academico de Ciência da Computação com previsão pra formatura por volta de 2
 
 <p>
   Ou também nas redes sociais:
-<a href="https://www.linkedin.com/in/vhprestes/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/vhprestes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vhprestes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/vhprestes" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=Instagram&logoColor=white" alt="insta logo"/></a>&nbsp;&nbsp;
 </p>
 
