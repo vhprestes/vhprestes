@@ -4,8 +4,8 @@
 <h1 align="Center">  Olá! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , Bem vindo ao GitHub de Victor Prestes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <br>
 
-Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 50 projetos concluidos.
-Academico de Ciencia da Computação com previsão pra formatura por 2026
+Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 50 projetos concluídos.
+Academico de Ciência da Computação com previsão pra formatura por 2026
 <br>
 <br>
 - Desenvolvedor Full Stack, atualmente me aprofundando em programação orientada a objetos, SOLID, Kotlin e Springboot
