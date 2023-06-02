@@ -38,6 +38,8 @@ Academico de Ciência da Computação com previsão pra formatura por volta de 2
 <img src="https://img.shields.io/badge/-Mocha-gray?logo=mocha&logoColor=white" alt="mocha logo">
 <img src="https://img.shields.io/badge/-Cypress-gray?logo=cypress&logoColor=white" alt="cy logo">
 <img src="https://img.shields.io/badge/-Chai-gray?logo=chai&logoColor=white" alt="chai logo">
+<img src="https://img.shields.io/badge/-Selenium-gray?logo=selenium&logoColor=white%22%20alt=%22selenium%20logo" alt="selenium logo">
+
 
 
 </div>
