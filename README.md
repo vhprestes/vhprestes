@@ -5,7 +5,7 @@
 <br>
 
 Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 50 projetos concluídos.
-Academico de Ciência da Computação com previsão pra formatura por volta de 2026
+acadêmico de Ciência da Computação com previsão pra formatura por volta de 2026
 <br>
 <br>
 - Desenvolvedor Full Stack, atualmente me aprofundando em programação orientada a objetos, SOLID, Kotlin e Springboot.
