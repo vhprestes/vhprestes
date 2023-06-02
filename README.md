@@ -36,8 +36,8 @@ Academico de Ciência da Computação com previsão pra formatura por volta de 2
 <img src="https://img.shields.io/badge/-React-gray?logo=react&logoColor=white" alt="react logo">
 <img src="https://img.shields.io/badge/-Jest-gray?logo=jest&logoColor=white" alt="jest logo">
 <img src="https://img.shields.io/badge/-Mocha-gray?logo=mocha&logoColor=white" alt="mocha logo">
-<img src="https://img.shields.io/badge/-Cypress-gray?logo=cypress&logoColor=white" alt="chai logo">
-<img src="https://img.shields.io/badge/-Chai-gray?logo=chai&logoColor=white" alt="cypress logo">
+<img src="https://img.shields.io/badge/-Cypress-gray?logo=cypress&logoColor=white" alt="cy logo">
+<img src="https://img.shields.io/badge/-Chai-gray?logo=chai&logoColor=white" alt="chai logo">
 
 
 </div>
