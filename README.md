@@ -9,7 +9,7 @@ acadêmico de Ciência da Computação com previsão pra formatura por volta de 
 <br>
 <br>
 - Desenvolvedor Full Stack, atualmente me aprofundando em programação orientada a objetos, SOLID, Kotlin e Springboot.
-- Sempre em busca de aumentar meus conhecimentos como desenvolvedor. Minhas principais stacks são Javascript/Typescript e Java/Kotlin. Mas também mando bem em Python!
+- Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de conhecimento. Minhas principais stacks são Javascript e Java/Kotlin, mas também mando bem em Python!
 - Essas são algumas stacks e Frameworks que conheço: 
 
 <br />
