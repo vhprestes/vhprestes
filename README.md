@@ -8,8 +8,8 @@ Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 
 acadêmico de Ciência da Computação com previsão pra formatura por volta de 2026
 <br>
 <br>
-- Desenvolvedor Full Stack, atualmente me aprofundando em programação orientada a objetos, SOLID, Kotlin e Springboot.
-- Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de conhecimento. Minhas principais stacks são Javascript e Java/Kotlin, mas também mando bem em Python!
+- Desenvolvedor Full Stack, atualmente me aprofundando em Java, Springboot.
+- Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de conhecimento. Minhas principais stacks é Javascript, mas também mando bem em Java e Python!
 - Essas são algumas stacks e Frameworks que conheço: 
 
 <br />
@@ -48,7 +48,7 @@ acadêmico de Ciência da Computação com previsão pra formatura por volta de 
 
   <br />
 
-📫 Pode me contatar em: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vhprestes@gmail.com)
+📫 Quer falar comigo? Ótimo! Pode me contatar por aqui: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vhprestes@gmail.com)
 
 
 <p>
