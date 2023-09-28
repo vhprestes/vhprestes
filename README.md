@@ -8,7 +8,7 @@ Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 
 acadêmico de Ciência da Computação com previsão pra formatura por volta de 2026
 <br>
 <br>
-- Desenvolvedor Full Stack, atualmente me aprofundando em Java, Springboot.
+- Desenvolvedor Full Stack, atualmente me aprofundando em Java e também em QA
 - Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de conhecimento. Minhas principais stacks é Javascript, mas também mando bem em Java e Python!
 - Essas são algumas stacks e Frameworks que conheço: 
 
