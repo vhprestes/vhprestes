@@ -5,11 +5,12 @@
 <br>
 
 Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 50 projetos concluídos.
-acadêmico de Ciência da Computação com previsão pra formatura por volta de 2026
+acadêmico de Ciência da Computação com previsão pra formatura até 2026
 <br>
 <br>
 - Desenvolvedor Full Stack, atualmente me aprofundando em Java e também em QA
-- Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de conhecimento. Minhas principais stacks é Javascript, mas também mando bem em Java e Python!
+- Sempre em busca de aumentar meus conhecimentos como desenvolvedor, como alguém autodidata estou sempre procurando aumentar meu leque de habilidades. Minhas principais stacks é Javascript, mas também mando bem em Java e Python!
+- Sou uma pessoa comunicativa, com experiência em liderança e que valoriza muito o trabalho em equipe
 - Essas são algumas stacks e Frameworks que conheço: 
 
 <br />
