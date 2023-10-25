@@ -20,7 +20,7 @@ acadêmico de Ciência da Computação com previsão pra formatura até 2026
 <img src="https://img.shields.io/badge/-Python-gray?logo=python&logoColor=white" alt="python"/>
 <img src="https://img.shields.io/badge/-Javascript-gray?logo=javascript&logoColor=white" alt="javascript logo"> 
 <img src="https://img.shields.io/badge/-Typescript-gray?logo=typescript&logoColor=white" alt="typescript logo">
-<img src="https://img.shields.io/badge/-Kotlin-gray?logo=kotlin&logoColor=white" alt="kotlin logo">
+<img src="https://img.shields.io/badge/-Vue-gray?logo=kotlin&logoColor=white" alt="vue logo">
 <img src="https://img.shields.io/badge/-Java-gray?logo=java&logoColor=white" alt="Java logo">
 <br />
 <img src="https://img.shields.io/badge/-CSS3-gray?logo=css3&logoColor=white" alt="css logo">
@@ -39,7 +39,6 @@ acadêmico de Ciência da Computação com previsão pra formatura até 2026
 <img src="https://img.shields.io/badge/-Mocha-gray?logo=mocha&logoColor=white" alt="mocha logo">
 <img src="https://img.shields.io/badge/-Cypress-gray?logo=cypress&logoColor=white" alt="cy logo">
 <img src="https://img.shields.io/badge/-Chai-gray?logo=chai&logoColor=white" alt="chai logo">
-<img src="https://img.shields.io/badge/-Selenium-gray?logo=selenium&logoColor=white" alt="selenium logo">
 
 
 
