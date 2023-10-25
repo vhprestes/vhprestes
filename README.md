@@ -5,11 +5,11 @@
 <br>
 
 Formado em Desenvolvimento Web na Trybe, programando há 1 ano e meio e mais de 50 projetos concluídos.
-AAcadêmico de Ciência da Computação com previsão pra formatura até 2026 e atualmente faço freelas enquanto busco uma oportunidade
+Acadêmico de Ciência da Computação com previsão pra formatura até 2026 e atualmente faço freelas enquanto busco uma oportunidade de trabalho ou estágio
 <br>
 <br>
 - Desenvolvedor Full Stack, com preferência pra backend. 
-- Autodidata e que adora estudar nas horas vagas, estou sempre procurando aumentar meu leque de habilidades. Minha principal stacks é Javascript, mas também mando bem em Python e java!
+- Autodidata e que adora estudar nas horas vagas, estou sempre procurando aumentar meu leque de habilidades. Minha principal stack é Javascript, mas também mando bem em Python e java!
 - Sou uma pessoa comunicativa, com experiência em liderança, trabalho em equipe e metodologias ágeis
 - Essas são algumas stacks e Frameworks que conheço: 
 
