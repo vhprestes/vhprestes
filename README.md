@@ -4,7 +4,7 @@
 <h1 align="Center">  Olá! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , Bem vindo ao GitHub de Victor Prestes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <br>
 
-Graduated in Web Development from Trybe, I have been programming for 1.5 years and have completed over 60 projects. 
+Graduated in Web Development from Trybe, I have been programming for almost 2 years and have completed over 60 projects. 
 I am currently pursuing a degree in Computer Science, with an expected graduation date in 2026. In the meantime, I am freelancing while actively seeking employment or internship opportunities.
 <br>
 <br>
