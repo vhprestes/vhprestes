@@ -8,7 +8,7 @@ Graduated in Web Development from Trybe, I have been programming for almost 2 ye
 I am currently pursuing a degree in Computer Science, with an expected graduation date in 2026. In the meantime, I am freelancing while actively seeking employment or internship opportunities.
 <br>
 <br>
-- As a Full Stack Developer, I have a preference for backend development.
+- As a Full Stack Developer, I love backend and frontend, and im also learning a lot about devops lately
 - I am self-taught and have a passion for learning in my spare time, always striving to broaden my range of skills. My primary stack is Javascript, but I am also proficient in Python and Java.
 - I am a communicative individual with experience in leadership roles, teamwork, and the implementation of agile methodologies.
 - Below are some of the stacks and frameworks with which I am familiar:
