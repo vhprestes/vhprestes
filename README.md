@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://i.postimg.cc/x1cHP64P/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f737465726f6964746f6361742e706e67.png" height="245px" width ="245px"></p>
+<p align="Center" ><img src="https://i.postimg.cc/x1cHP64P/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f737465726f6964746f6361742e706e67.png" height="400px" width ="400px"></p>
 
 
 <h1 align="Center">  Olá! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , Bem vindo ao GitHub de Victor Prestes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
