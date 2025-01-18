@@ -5,7 +5,7 @@
 <br>
 
 Graduated in Web Development from trybe, I have been programming for 2 and a half years and have completed over 70 projects. 
-I am currently pursuing a degree in Computer Science, with an expected graduation date in early 2027. In the meantime, I am freelancing while actively seeking employment or internship opportunities. My last occupation was a internship at ZG Solucões, where i had the oportunity to work with java and groovy
+I am currently pursuing a degree in Computer Science, with an expected graduation date in early 2027. In the meantime, I am freelancing while actively seeking employment or internship opportunities. My last occupation was a bootcamp at ZG Solucões, where i had the oportunity to work with java and groovy
 <br>
 <br>
 - As a Full Stack Developer, I love backend and frontend, and im also learning a lot about devops lately
