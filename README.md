@@ -1,11 +1,11 @@
 <p align="Center" ><img src="https://i.postimg.cc/3wD39Gh6/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f737465726f6964746f6361742e706e67.png" height="400px" width ="400px"></p>
 
 
-<h1 align="Center">  Olá! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> Bem vindo ao GitHub de Victor Prestes </h1>
+<h1 align="Center">  Hello! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> Welcome to my Github! </h1>
 <br>
 
 Graduated in Web Development from trybe, I have been programming for 2 and a half years and have completed over 70 projects. 
-I am currently pursuing a degree in Computer Science, with an expected graduation date in early 2027. In the meantime, I am freelancing while actively seeking employment or internship opportunities. My last occupation was a bootcamp at ZG Solucões, where i had the oportunity to work with java and groovy
+Im working as Software developar at CI&T and pursuing a degree in Computer Science, with an expected graduation date in early 2027.
 <br>
 <br>
 - As a Full Stack Developer, I love backend and frontend, and im also learning a lot about devops lately
